@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sulthan-Sushma/Sulthan-Sushma-CODETECH-IT-SOLUTIONS_INTERN_TASK-1.git/static/css/main.3702eee4.css",
+    "main.js": "/Sulthan-Sushma/Sulthan-Sushma-CODETECH-IT-SOLUTIONS_INTERN_TASK-1.git/static/js/main.291b86a4.js",
+    "index.html": "/Sulthan-Sushma/Sulthan-Sushma-CODETECH-IT-SOLUTIONS_INTERN_TASK-1.git/index.html",
+    "main.3702eee4.css.map": "/Sulthan-Sushma/Sulthan-Sushma-CODETECH-IT-SOLUTIONS_INTERN_TASK-1.git/static/css/main.3702eee4.css.map",
+    "main.291b86a4.js.map": "/Sulthan-Sushma/Sulthan-Sushma-CODETECH-IT-SOLUTIONS_INTERN_TASK-1.git/static/js/main.291b86a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3702eee4.css",
+    "static/js/main.291b86a4.js"
+  ]
+}
