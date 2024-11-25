@@ -1,6 +1,10 @@
 Project Overview: Simple To-Do List Application
 
-Developer: Sulthan.Sushma Company: CODETECH IT SOLUTIONS ID: CT08DS9262 Duration: October to November 2024 Mentor: Neela Santhosh Kumar
+Developer: Sulthan.Sushma
+Company: CODETECH IT SOLUTIONS
+ID: CT08DS9262
+Duration: October to November 2024
+Mentor: Neela Santhosh Kumar
 
 Goal:
 
