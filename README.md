@@ -10,17 +10,34 @@ Goal:
 
 Develop a simple to-do list application where users can:
 
-1.Add, view, edit, delete, and mark tasks as complete. 2.Filter tasks by their state (All, Active, Completed).
+1.Add, view, edit, delete, and mark tasks as complete.
+2.Filter tasks by their state (All, Active, Completed).
 
 Technologies Used:
 
-1.React.js: Component-based architecture and state management. 2.JavaScript (ES6): Core functionality. 3.CSS: For styling and enhancing user experience. 4.Critical Functionalities: 5.Add Task: Users can add tasks using an input field and a button. 6.Task Completion: Toggle task completion using conditional CSS rendering. 7.Task Deletion: Remove tasks using a delete button. 8.Task Filtering: Use filter buttons (All, Active, Completed) to sort tasks based on their state.
+1.React.js: Component-based architecture and state management.
+2.JavaScript (ES6): Core functionality. 
+3.CSS: For styling and enhancing user experience.
 
-Components: 1.TodoApp: Main component managing state and filters. 2.TodoItem: Displays individual tasks. 3.TodoInput: Handles new task submissions.
+Critical Functionalities:
+1.Add Task: Users can add tasks using an input field and a button. 
+2.Task Completion: Toggle task completion using conditional CSS rendering.
+3.Task Deletion: Remove tasks using a delete button. 
+4.Task Filtering: Use filter buttons (All, Active, Completed) to sort tasks based on their state.
 
-State Management: ->React's useState hook will manage the task list and filter state.
+Components:
 
-Event Handling: ->Event listeners for form submissions, button clicks, and task toggles ensure a responsive UI.
+1.TodoApp: Main component managing state and filters.
+2.TodoItem: Displays individual tasks.
+3.TodoInput: Handles new task submissions.
+
+State Management: 
+
+->React's useState hook will manage the task list and filter state.
+
+Event Handling:
+
+->Event listeners for form submissions, button clicks, and task toggles ensure a responsive UI.
 
 Learning Outcomes: 1.Understanding component-based architecture in React. 2.Managing state effectively with useState. 3.Handling events and conditional rendering. 4.Enhancing the UI with CSS styling.
 
